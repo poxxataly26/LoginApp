@@ -86,7 +86,7 @@ body {
 
     
     <!-- Custom styles for this template -->
-    <link href="" rel="stylesheet">
+    <link href="cover.css" rel="stylesheet">
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">
    
@@ -95,32 +95,15 @@ body {
     <div>
       <h3 class="float-md-start mb-0">Início</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link active" aria-current="page" href="#">Início</a>
+        <a class="nav-link active" aria-current="page" href="index.php">Início</a>
         <a class="nav-link" href="cadastro.php">Cadastre-se</a>
-        <a class="nav-link" href="login.php">Long in</a>
+        <a class="nav-link" href="login.php">Login</a>
       </nav>
     </div>
-  </header>
-
-  <main class="px-3">
-    <h1>Seja bem vind@</h1>
-    <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso à base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
-    <p class="lead">
-    <p class="lead"></p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Github</a>
-    </p>
-  </main>
-
-  <footer class="mt-auto text-white-50">
-    <p>Modelo de capa do <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
-  </footer>
-  <footer class="text-white-50">
-    <p>Projeto criado por <a href="https://www.linkedin.com/feed/?trk=registration-frontend" class="text-white">@TalytaAugusto</a>.</p>
-  </footer>
+    <label for="texto">nome:</label><br><input type="text" id="texto" name="texto"><br>
+    <label for="texto">email:</label><br><input type="text" id="texto" name="texto"><br>
+    <label for="texto">senha:</label><br><input type="text" id="texto" name="texto"><br>
+    <label for="texto">repetir a senha:</label><br><input type="text" id="texto" name="texto"><br>
 </div>
-
-
-    
-  </body>
+</body>
 </html>
