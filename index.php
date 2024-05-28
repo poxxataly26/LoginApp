@@ -96,17 +96,17 @@ body {
       <h3 class="float-md-start mb-0">Capa</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link active" aria-current="page" href="#">Inicio</a>
-        <a class="nav-link" href="novidade.html">Novidade</a>
-        <a class="nav-link" href="contato.html">Contato</a>
+        <a class="nav-link" href="cadastro">Cadastre-se</a>
+        <a class="nav-link" href="login">Long in</a>
       </nav>
     </div>
   </header>
 
   <main class="px-3">
-    <h1>Página de Capa</h1>
+    <h1>Seja bem vind@</h1>
     <p class="lead"></p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Saiba mais</a>
+      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Github</a>
     </p>
   </main>
 
