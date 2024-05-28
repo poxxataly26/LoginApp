@@ -113,6 +113,9 @@ body {
   <footer class="mt-auto text-white-50">
     <p>Modelo de capa do <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
   </footer>
+  <footer class="text-white-50">
+    <p>Projeto criado por <a href="https://www.linkedin.com/feed/?trk=registration-frontend" class="text-white">@TalytaAugusto</a>.</p>
+  </footer>
 </div>
 
 
