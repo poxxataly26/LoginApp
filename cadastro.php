@@ -15,24 +15,15 @@
     <!-- Bootstrap core CSS -->
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <style>
-        /*
- * Globals
- */
-
+<style>
 
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: none; 
 }
-
-
-/*
- * Base structure
- */
 
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
@@ -42,11 +33,6 @@ body {
 .cover-container {
   max-width: 42em;
 }
-
-
-/*
- * Header
- */
 
 .nav-masthead .nav-link {
   padding: .25rem 0;
@@ -70,50 +56,50 @@ body {
   border-bottom-color: #fff;
 }
 .bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
 }
 
-    @media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-    }
+  @media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
 }
 input[type="text"] {
-    border-radius: 10px;
-    border: 1px solid #ccc;
-    padding: 8px;
-    width: 200px;
-    box-sizing: border-box;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  padding: 8px;
+  width: 200px;
+  box-sizing: border-box;
 }
 .center-content {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        flex-direction: column;
-      }
-      .custom-input {
-        border-radius: 10px;
-        border: 1px solid rgb(17, 0, 255);
-        padding: 10px;
-        width: 300px;
-        margin-bottom: 10px;
-      }
-      .botaocustom {
-        background-color: #007bff;
-        color: white;
-        border-radius: 10px;
-        border: none;
-        padding: 10px 20px;
-      }
-      .botaocustom:hover {
-        background-color: #0056b3;
-      }
-    </style>
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.custom-input {
+  border-radius: 10px;
+  border: 1px solid rgb(17, 0, 255);
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+.botaocustom {
+  background-color: #007bff;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 20px;
+}
+.botaocustom:hover {
+  background-color: #0056b3;
+}
+</style>
 
     <link href="cover.css" rel="stylesheet">
   </head>
