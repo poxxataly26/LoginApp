@@ -83,9 +83,7 @@ body {
     }
 }
     </style>
-
     
-    <!-- Custom styles for this template -->
     <link href="cover.css" rel="stylesheet">
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">
@@ -97,7 +95,7 @@ body {
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link active" aria-current="page" href="index.php">Início</a>
         <a class="nav-link" href="cadastro.php">Cadastre-se</a>
-        <a class="nav-link" href="login.php">Long in</a>
+        <a class="nav-link" href="login.php">Longin</a>
       </nav>
 
     <header>
