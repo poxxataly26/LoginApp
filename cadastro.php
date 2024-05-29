@@ -82,8 +82,39 @@ body {
         font-size: 3.5rem;
     }
 }
+input[type="text"] {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 200px;
+    box-sizing: border-box;
+}
+.center-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+      .custom-input {
+        border-radius: 10px;
+        border: 1px solid rgb(17, 0, 255);
+        padding: 10px;
+        width: 300px;
+        margin-bottom: 10px;
+      }
+      .botaocustom {
+        background-color: #007bff;
+        color: white;
+        border-radius: 10px;
+        border: none;
+        padding: 10px 20px;
+      }
+      .botaocustom:hover {
+        background-color: #0056b3;
+      }
     </style>
-  
+
     <link href="cover.css" rel="stylesheet">
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">
@@ -97,11 +128,14 @@ body {
         <a class="nav-link" href="cadastro.php">Cadastre-se</a>
         <a class="nav-link" href="login.php">Login</a>
       </nav>
-    </div>
-    <label for="texto">nome:</label><br><input type="text" id="texto" name="texto"><br>
-    <label for="texto">email:</label><br><input type="text" id="texto" name="texto"><br>
-    <label for="texto">senha:</label><br><input type="text" id="texto" name="texto"><br>
-    <label for="texto">repetir a senha:</label><br><input type="text" id="texto" name="texto"><br>
+  
+    <div class="center-content">
+  <input type="text" class="custom-input" placeholder="Senha:">
+  <input type="text" class="custom-input" placeholder="Email:">
+  <input type="text" class="custom-input" placeholder="Senha:">
+  <input type="text" class="custom-input" placeholder="Repitir a senha:">
+  <button class="botaocustom">Enviar</button>
+
 </div>
 </body>
 </html>
