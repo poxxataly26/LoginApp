@@ -116,7 +116,7 @@ input[type="text"] {
       </nav>
   
     <div class="center-content">
-  <input type="text" class="custom-input" placeholder="Senha:">
+  <input type="text" class="custom-input" placeholder="Nome:">
   <input type="text" class="custom-input" placeholder="Email:">
   <input type="text" class="custom-input" placeholder="Senha:">
   <input type="text" class="custom-input" placeholder="Repitir a senha:">
