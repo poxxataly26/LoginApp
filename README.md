@@ -16,7 +16,7 @@ Login: Um formulário para entrar com sua conta.
 
 ### Tecnologias Usadas
 
-HTML5: Para fazer as páginas web.  
+- HTML5: Para fazer as páginas web.  
 CSS3: Para estilizar as páginas e deixar tudo perfeito.  
 Bootstrap: Uma biblioteca de CSS para facilitar a criação de layouts responsivos.  
 PHP: A linguagem de programação usada no back-end para processar os formulários de cadastro e login e acessar o banco de dados.  
