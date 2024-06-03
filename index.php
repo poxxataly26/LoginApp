@@ -59,6 +59,7 @@ body {
   color: #fff;
   border-bottom-color: transparent; 
 }
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -96,7 +97,7 @@ body {
     <p class="lead">
     <p class="lead"></p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Github</a>
+      <a href="https://github.com/poxxataly26" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Github</a>
     </p>
 </main>
 

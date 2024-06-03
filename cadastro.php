@@ -120,7 +120,7 @@ input[type="text"] {
   <input type="text" class="custom-input" placeholder="Email:">
   <input type="text" class="custom-input" placeholder="Senha:">
   <input type="text" class="custom-input" placeholder="Repitir a senha:">
-  <button class="botaocustom">Enviar</button>
+  <button class="botaocustom">Salvar</button>
 
 </div>
 </body>

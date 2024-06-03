@@ -86,7 +86,7 @@ input[type="text"] {
   border-radius: 10px;
   border: 1px solid rgb(17, 0, 255);
   padding: 10px;
-  width: 300px;
+  width: 400px;
   margin-bottom: 10px;
 }
 .botaocustom {
@@ -116,9 +116,9 @@ input[type="text"] {
       </nav>
 
       <div class="center-content">
-  <input type="text" class="custom-input" placeholder="email:">
-  <input type="text" class="custom-input" placeholder="senha:">
-  <button class="botaocustom">Enviar</button>
+  <input type="text" class="custom-input" placeholder="Email:">
+  <input type="text" class="custom-input" placeholder="Senha:">
+  <button class="botaocustom">Entrar</button>
 </div>
 
 </body>
