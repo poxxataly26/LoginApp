@@ -53,7 +53,7 @@ body {
 
 .nav-masthead .active {
   color: #fff;
-  border-bottom-color: #fff;
+  border-bottom-color: transparent; 
 }
 .bd-placeholder-img {
   font-size: 1.125rem;
