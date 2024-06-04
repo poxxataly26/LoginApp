@@ -32,4 +32,4 @@ Login: Um formulário para entrar com sua conta.
 
 [Talyta](https://github.com/poxxataly26/LoginApp) 
 
-<img src="" width="100px">
+<img src="https://github.com/poxxataly26/LoginApp/blob/main/Img/foto.jpeg" width="100px">
