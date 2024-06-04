@@ -2,7 +2,7 @@
 
 App Funcional
 
-![image info]()
+![image info](https://github.com/poxxataly26/LoginApp/blob/main/Img/App.gif)
 
 ## Introdução 
 
