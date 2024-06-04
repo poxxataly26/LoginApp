@@ -24,4 +24,12 @@ Login: Um formulário para entrar com sua conta.
 - PHP: A linguagem de programação usada no back-end para processar os formulários de cadastro e login e acessar o banco de dados.  
 - GitHub: Para mostrar o código-fonte do projeto.  
 
+## Fontes consultadas
 
+[Bootstrap](https://getbootstrap.com/docs/5.0/forms/layout/) - Página para fazer os códigos
+
+## Autora 
+
+[Talyta](https://github.com/poxxataly26/LoginApp) 
+
+<img src="" width="100px">
